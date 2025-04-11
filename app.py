@@ -8,7 +8,7 @@
 
 
 # Instalar librerías
-get_ipython().system('pip install -q -U Dash')
+
 
 
 # In[3]:
