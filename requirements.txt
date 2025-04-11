@@ -1,0 +1,7 @@
+dash
+pandas
+plotly
+geopandas
+matplotlib
+wordcloud
+numpy
