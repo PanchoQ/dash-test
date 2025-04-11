@@ -5,3 +5,8 @@ geopandas
 matplotlib
 wordcloud
 numpy
+seaborn
+ipywidgets
+ipython
+json5
+folium
