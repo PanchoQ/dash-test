@@ -9,6 +9,7 @@ Archivo TAREA_3_Francisco_Carlos_Juan.ipynb corresponde a un Jupyter notebook pa
 
 # Google Colab Notebook
 Archivo TAREA_GRUPAL_Colab_Francisco_Carlos_Juan.ipynb corresponde a un notebook para correr en Google Colab.
+(Se cambió el nombre de este archivo para evitar confuisión el 12-04-25, pero la versión con el nombre antiguo se subió el 11-04-25).
 
 # Archivo app.py permite correr la aplicación para publicación en website.
 Archivos render.yaml y requirements.txt son necesarios para correr la app.py.
