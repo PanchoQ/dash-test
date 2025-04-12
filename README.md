@@ -1,6 +1,6 @@
 # dash-test
 
-# Archivos necesarios para correrl el Jupyter notebook:
+# Archivos necesarios para correr el Jupyter notebook:
 1. Archivo comunas.geojson corresponde a la separación de comunas para correr el jupyter notebook.
 2. Archivo df_all_years_filtered.csv corresponde al data frame para correr el jupyter notebook.
 
