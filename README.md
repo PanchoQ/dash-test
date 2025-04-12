@@ -8,6 +8,5 @@ Archivo df_all_years_Filtered.csv corresponde a la separación de comunas para c
 Archivo TAREA_3_Francisco_Carlos_Juan.ipynb corresponde a un Jupyter notebook para correr en ambiente local.
 
 # Archivo app.py permite correr la aplicación para publicación en website.
-
-# Archivos render y requirements son necesarios para correr la app.py.
+Archivos render y requirements son necesarios para correr la app.py.
 
